@@ -25,5 +25,5 @@ These are the Arduino projects I made in order to expand my C++ Knowledge as wel
 [Schematic](https://www.tinkercad.com/things/dBv6NOkKWGg)
 
 ### 06 - Target Map Prototype
--> This project uses a Value Input and determines which LED to change color of an LED. <br/>
+-> This project uses a Value Input and determines which LED to change color. <br/>
 [Schematic](https://www.tinkercad.com/things/2TzeFd4ywU8)
